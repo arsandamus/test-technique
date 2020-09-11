@@ -1,4 +1,7 @@
-# Test technique Bluecoders
+# Projet todolist pour test technique Bluecoders
 
-Vous devez forker ce dépôt et y développer le projet énoncé dans le fichier txt présent dans le dépôt  
-Vous pourrez ensuite m'envoyer le lien de votre repo pour que je puisse cloner, soit via mon [Linkedin](https://www.linkedin.com/in/gregoireballot/), soit par mail à gregoire@bluecoders.com
+# Stack utilisée : front = Vuejs / back = Nodejs / DB = MongoDB
+
+# Pour executer l'application :
+
+Frontend = NPM RUN 
