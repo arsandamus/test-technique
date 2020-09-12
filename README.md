@@ -1,7 +1,8 @@
 # Projet todolist pour test technique Bluecoders
 
-# Stack utilisée : front = Vuejs / back = Nodejs / DB = MongoDB
+Stack utilisée : front = Vuejs / back = Nodejs / DB = MongoDB
 
-# Pour executer l'application :
+Pour executer l'application :
 
-Frontend = NPM RUN 
+Frontend = NPM RUN START
+Backend = NPM START
