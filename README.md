@@ -4,5 +4,5 @@ Stack utilisée : front = Vuejs / back = Nodejs / DB = MongoDB
 
 Pour executer l'application :
 
-Frontend = NPM RUN START
+Frontend = NPM RUN SERVE
 Backend = NPM START
